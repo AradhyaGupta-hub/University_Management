@@ -1,0 +1,2 @@
+The University Management System (UMS) is a Java-based software application designed to manage and streamline various administrative tasks within a university. It is an easy-to-use system that allows the management of student records, faculty data, course offerings and more.
+The system is designed for both the administrative staff and faculty to interact with the data in an efficient and user-friendly manner, enabling seamless management and tracking of university activities.
